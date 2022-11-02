@@ -1,5 +1,9 @@
 package com.example.demo;
 
+/*
+Given a string, return true if the string starts with "hi" and false otherwise.
+*/
+
 public class startHi
 {
     public boolean startHi(String str)
