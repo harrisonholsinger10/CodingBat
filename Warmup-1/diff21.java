@@ -1,5 +1,9 @@
 package com.example.demo;
 
+/*
+Given two int values, return their sum. Unless the two values are the same, then return double their sum.
+*/
+
 public class diff21
 {
     public int diff21(int n)
