@@ -1,5 +1,9 @@
 package com.example.demo;
 
+/*
+* Given a list of non-negative integers, return a list of those numbers except omitting any that end with 9. (Note: % by 10)
+*/
+
 import java.util.List;
 import java.util.stream.Collectors;
 
