@@ -1,5 +1,9 @@
 package com.example.demo;
 
+/*
+* Given a list of strings, return a list of the strings, omitting any string length 4 or more.
+*/
+
 import java.util.List;
 import java.util.stream.Collectors;
 
