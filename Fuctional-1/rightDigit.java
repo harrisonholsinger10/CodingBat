@@ -1,5 +1,9 @@
 package com.example.demo;
 
+/*
+* Given a list of non-negative integers, return an integer list of the rightmost digits. (Note: use %)
+*/
+
 import java.util.List;
 import java.util.stream.Collectors;
 
