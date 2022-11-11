@@ -1,5 +1,9 @@
 package com.example.demo;
 
+/*
+Given a non-empty string like "Code" return a string like "CCoCodCode".
+*/
+
 public class stringSplosion
 {
     public String stringSplosion(String str)
