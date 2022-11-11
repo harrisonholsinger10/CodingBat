@@ -1,5 +1,9 @@
 package com.example.demo;
 
+/*
+Given an array of ints, return the number of 9's in the array.
+*/
+
 import java.util.List;
 
 public class arrayCount9
