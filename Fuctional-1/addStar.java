@@ -1,5 +1,9 @@
 package com.example.demo;
 
+/*
+* Given a list of strings, return a list where each string has "*" added at its end.
+*/
+
 import java.util.List;
 import java.util.stream.Collectors;
 
