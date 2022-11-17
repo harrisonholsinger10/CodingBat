@@ -1,5 +1,9 @@
 package com.example.demo;
 
+/*
+* Given a string, return true if it ends in "ly".
+*/
+
 public class endsLy
 {
     public boolean endsLy(String str)
