@@ -1,5 +1,9 @@
 package com.example.demo;
 
+/*
+* Given a list of integers, return a list where each integer is multiplied with itself.
+*/
+
 import java.util.List;
 import java.util.stream.Collectors;
 

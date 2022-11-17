@@ -1,5 +1,11 @@
 package com.example.demo;
 
+/*
+Modify and return the given map as follows: if the keys "a" and "b" have values that have different lengths, 
+then set "c" to have the longer value. If the values exist and have the same length, 
+change them both to the empty string in the map.
+*/
+
 import java.util.Map;
 
 public class mapAB4

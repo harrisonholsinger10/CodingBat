@@ -1,5 +1,9 @@
 package com.example.demo;
 
+/*
+Given an array of ints, return true if the sequence of numbers 1, 2, 3 appears in the array somewhere.
+*/
+
 public class array123
 {
     public boolean array123(int[] nums)

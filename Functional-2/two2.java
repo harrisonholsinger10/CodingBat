@@ -1,5 +1,10 @@
 package com.example.demo;
 
+/*
+* Given a list of non-negative integers, return a list of those numbers multiplied by 2, 
+* omitting any of the resulting numbers that end in 2.
+*/
+
 import java.util.List;
 import java.util.stream.Collectors;
 

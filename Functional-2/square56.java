@@ -1,5 +1,10 @@
 package com.example.demo;
 
+/*
+* Given a list of integers, return a list of those numbers squared and the product added to 10, 
+* omitting any of the resulting numbers that end in 5 or 6.
+*/
+
 import java.util.List;
 import java.util.stream.Collectors;
 

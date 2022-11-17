@@ -1,5 +1,10 @@
 package com.example.demo;
 
+/*
+* Given a string, if the string begins with "red" or "blue" return that color string, 
+* otherwise return the empty string.
+*/
+
 public class seeColor
 {
     public String seeColor(String str)

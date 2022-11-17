@@ -1,5 +1,9 @@
 package com.example.demo;
 
+/*
+Given a list of integers, return a list where each integer is multiplied by 2.
+*/
+
 import java.util.List;
 import java.util.stream.Collectors;
 
