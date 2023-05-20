@@ -1,3 +1,5 @@
+// This is the main class file for the Codingbat Java exercises that executes the methods with example information and/or input
+
 package com.example.demo;
 
 import ch.qos.logback.core.net.SyslogOutputStream;
