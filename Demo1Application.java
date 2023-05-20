@@ -1,3 +1,5 @@
+// This file is the main class that executes the methods from the other files with random information and/or input
+
 package com.example.demo;
 
 import ch.qos.logback.core.net.SyslogOutputStream;
