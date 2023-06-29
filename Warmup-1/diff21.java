@@ -1,7 +1,7 @@
 package com.example.demo;
 
 /*
-Given two int values, return their sum. Unless the two values are the same, then return double their sum.
+Given an int n, return the absolute difference between n and 21, except return double the absolute difference if n is over 21.
 */
 
 public class diff21
